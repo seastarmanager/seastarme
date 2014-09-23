@@ -1,0 +1,13 @@
+html,body,.container-fluid,.row-fluid
+{
+	height: 100%;
+}
+
+.back-blackboard
+{
+	height: 100%;
+	background: url(img/blackboard.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position:center;
+}
